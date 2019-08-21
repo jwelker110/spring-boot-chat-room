@@ -2,6 +2,6 @@ package edu.udacity.java.nano.chat;
 
 public enum MessageType {
     ENTER,
-    SPEAK,
+    CHAT,
     LEAVE
 }
